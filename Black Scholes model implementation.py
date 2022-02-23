@@ -1,5 +1,3 @@
-# Simple-Black-Scholes-function
-
 import numpy as np
 from scipy.stats import norm
 
@@ -28,3 +26,5 @@ print("Option Price is", round(blackScholes(r,S,K,T,sigma,type = "C"),2))
 
 
 
+git config --global user.email "dathongminhforwork@gmail.com"
+git config --global user.name "Steve Hong"
